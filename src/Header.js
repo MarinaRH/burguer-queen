@@ -10,10 +10,10 @@ class Header extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <ul className="nav justify-content-center">
             <li className="nav-item dropdown">
-              <a className="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Dropdown</a>
+              <a className="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Menú</a>
               <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                 <a className="dropdown-item" href="#">Desayuno</a>
-                <a className="dropdown-item" href="#">Otro</a>
+                <a className="dropdown-item" href="#">Otros</a>
               </div>
             </li>
             <li className="nav-item">
